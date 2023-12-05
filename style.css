@@ -1018,7 +1018,7 @@ header ul li:hover {
 	}
 }
 
-@media (max-width: 430px) {
+@media (max-width: 600px) {
 
 	header,
 	header.sticky {
